@@ -7,7 +7,7 @@
  
  The full visualization can be found here: https://urmilaj.github.io/under-the-influence/
  
- A write-up and analysis on the viz can be found here: https://sites.google.com/view/urmila-jagadeesh/data-viz/under-the-influence
+
  
  
  Data source: World Health Organisation- https://apps.who.int/gho/data/node.main.A1022?lang=en
